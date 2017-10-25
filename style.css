@@ -33,16 +33,6 @@ p {
   display: none;
 }
 
-.fa-bars {
-  display: inline-block;
-  margin: 10px 10px 0 0 !important;
-  text-decoration: none;
-  list-style-type: none;
-  float: right;
-  color: red;
-  font-size: 30px;
-}
-
 /*back to top*/
 
 #back-to-top {
@@ -110,12 +100,12 @@ html,body {
 
 .fa-bars {
   display: inline-block;
-  margin: 10px 10px 0 0 !important;
+  margin: 17px 10px 0 0 !important;
   text-decoration: none;
   list-style-type: none;
   float: right;
   color: red;
-  font-size: 30px;
+  font-size: 20px !important;
   cursor: pointer;
 }
 
